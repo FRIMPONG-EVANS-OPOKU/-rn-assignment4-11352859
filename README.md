@@ -22,3 +22,22 @@
    Usage: Used for displaying images. Supports both local and network sources. Can be styled with properties like `resizeMode`.
 
 
+
+# React Native Components Usage
+# Components
+
+1. StyleSheet: A utility for creating and managing styles in React Native. It allows you to define styles using JavaScript objects and apply them to components.
+
+2. Text: A component for displaying text. You can customize font size, color, alignment, and other text-related properties.
+
+3. View: The fundamental building block for creating UI components. It's like a container that can hold other components and style them.
+
+4. TextInput: An input field for capturing text input from the user. It's commonly used for forms, search bars, and chat input.
+
+5. Image: Displays images in your app. You can load local images or fetch them from a URL.
+
+6. TouchableOpacity: A wrapper for making views respond properly to touches. When pressed, the opacity of the wrapped view decreases, giving a visual feedback to the user. It's commonly used for buttons and interactive elements.
+
+7. FlatList: A high-performance list component for rendering large lists of data. It efficiently renders only the visible items on the screen, improving performance compared to other list components.
+
+
